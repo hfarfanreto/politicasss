@@ -1,12 +1,3 @@
-@import url("https://font-awesome.min.css");
-@import url("https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
-
-@font-face {
-  font-family: 'Bitter';
-  font-display: auto;
-  src: local('Bitter'), url(https://fonts.gstatic.com/s/bitter/v25/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4Pz-UXByjeU.woff2) format('woff2');
-}
-
 *,
 *:before,
 *:after {
